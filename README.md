@@ -1,6 +1,9 @@
-# bmi_calculator
+# BMI Calculator
 
-A new Flutter project.
+An app that you can check your BMI.
+
+![image1](https://user-images.githubusercontent.com/107287484/190728281-32c99f0a-1cc9-428c-aae8-35dc241ea811.png)
+![image2](https://user-images.githubusercontent.com/107287484/190728287-f2c4f76f-dd9b-460c-a0cd-a7edc7e26482.png)
 
 ## Getting Started
 
