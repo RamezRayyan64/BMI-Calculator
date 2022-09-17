@@ -1,4 +1,4 @@
-import 'package:bmi_calculator/widgets/bottom_page_button_widget.dart';
+import 'package:bmi_calculator_app_ui/widgets/bottom_page_button_widget.dart';
 import 'package:flutter/material.dart';
 
 class ResultScreen extends StatefulWidget {

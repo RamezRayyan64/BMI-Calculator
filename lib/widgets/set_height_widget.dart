@@ -1,4 +1,4 @@
-import 'package:bmi_calculator/constants/constants.dart';
+import 'package:bmi_calculator_app_ui/constants/constants.dart';
 import 'package:flutter/material.dart';
 
 class SetHeigthWidget extends StatelessWidget {

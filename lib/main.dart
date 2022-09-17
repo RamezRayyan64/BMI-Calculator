@@ -1,9 +1,9 @@
-import 'package:bmi_calculator/pages/input_screen.dart';
-import 'package:bmi_calculator/pages/screen.dart';
-import 'package:bmi_calculator/themes/darkTheme.dart';
+import 'package:bmi_calculator_app_ui/pages/input_screen.dart';
+import 'package:bmi_calculator_app_ui/pages/screen.dart';
+import 'package:bmi_calculator_app_ui/themes/darkTheme.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:bmi_calculator/pages/result_screen.dart';
+import 'package:bmi_calculator_app_ui/pages/result_screen.dart';
 
 void main() {
   SystemChrome.setSystemUIOverlayStyle(

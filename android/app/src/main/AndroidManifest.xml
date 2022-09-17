@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.rayyantech.bmi_calculator">
+    package="com.example.rayyantech.bmi_calculator_app_ui">
    <application
-        android:label="bmi_calculator"
+        android:label="bmi_calculator_app_ui"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

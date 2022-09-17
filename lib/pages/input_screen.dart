@@ -1,11 +1,11 @@
 import 'dart:math';
 
-import 'package:bmi_calculator/constants/constants.dart';
-import 'package:bmi_calculator/pages/result_screen.dart';
-import 'package:bmi_calculator/widgets/bottom_page_button_widget.dart';
-import 'package:bmi_calculator/widgets/select_gender_widget.dart';
-import 'package:bmi_calculator/widgets/set_height_widget.dart';
-import 'package:bmi_calculator/widgets/set_weight_widget.dart';
+import 'package:bmi_calculator_app_ui/constants/constants.dart';
+import 'package:bmi_calculator_app_ui/pages/result_screen.dart';
+import 'package:bmi_calculator_app_ui/widgets/bottom_page_button_widget.dart';
+import 'package:bmi_calculator_app_ui/widgets/select_gender_widget.dart';
+import 'package:bmi_calculator_app_ui/widgets/set_height_widget.dart';
+import 'package:bmi_calculator_app_ui/widgets/set_weight_widget.dart';
 import 'package:flutter/material.dart';
 
 class InputScreen extends StatefulWidget {
