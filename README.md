@@ -20,15 +20,19 @@ An app that you can check your BMI.
 ```
 lib
 │───main.dart    
-└───screens
-│    │───home_screen.dart
-│───widgets
-    │──donwload_upload_buttons_row_widget.dart
-    │──download_upload_speed_meter_texts_widget.dart
-    │──my_app_bar_widget.dart
-    │──my_text_button_widget.dart
-    │──speed_meter_radial_gauge_widget.dart
-    └──start_stop_button_widget.dart
+|───constants
+│    └───constants.dart
+|───pages
+|    │──input_screen.dart
+|    └──result_screen.dart
+|───themes
+│    └───darkTheme.dart
+└───widgets
+     │──bottom_page_button_widget.dart
+     │──select_gender_widget.dart
+     │──set_height_widget.dart
+     │──set_weight_widget.dart
+     └──substract_add_input_widget.dart
 ```
 
 ## Pull Requests
