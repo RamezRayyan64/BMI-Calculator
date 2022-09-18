@@ -9,7 +9,7 @@ An app that you can check your BMI.
 
 ## Download App ![GitHub All Releases](https://img.shields.io/github/downloads/RamezRayyan64/BMI-Calculator-App-UI/total?color=green)
 
-<a href="https://github.com/RamezRayyan64/BMI-Calculator-App-UI/releases/tag/v1.0.0/app-release.apk"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
+<a href="https://github.com/RamezRayyan64/BMI-Calculator-App-UI/releases/download/download/app-release.apk"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
 
 ## Screenshots
 
