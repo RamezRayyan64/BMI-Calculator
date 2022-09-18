@@ -1,5 +1,4 @@
 import 'package:bmi_calculator_app_ui/pages/input_screen.dart';
-import 'package:bmi_calculator_app_ui/pages/screen.dart';
 import 'package:bmi_calculator_app_ui/themes/darkTheme.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
@@ -23,7 +22,6 @@ class MyApp extends StatelessWidget {
       routes: {
         InputScreen.id: (context) => const InputScreen(),
         ResultScreen.id: (context) => const ResultScreen(),
-        Screen.id: (context) => const Screen(),
       },
     );
   }
